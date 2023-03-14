@@ -1,4 +1,4 @@
-# printf_tester
+# printf tester
 @42_tokyo project / printf tester
 
 ## Getting Started
